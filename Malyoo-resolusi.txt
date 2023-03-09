@@ -1,7 +1,9 @@
 Mal resolusi tahun 2023
 - Serius Kuliah
 - Latihan bila waktu kosong
-  ^ Gym 1 minggu sekali
 - Bisa dan mengerti bahasa pemrograman yang dipelajari 
   ^ C++
+  ^ Python
+  ^ Database
 - Healing minimal 2 bulan sekali
+  ^ Membuat video konten camping
