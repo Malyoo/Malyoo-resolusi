@@ -3,4 +3,5 @@ Mal resolusi tahun 2023
 - Latihan bila waktu kosong
   ^ Gym 1 minggu sekali
 - Bisa dan mengerti bahasa pemrograman yang dipelajari 
+  ^ C++
 - Healing minimal 2 bulan sekali
