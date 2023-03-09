@@ -4,4 +4,7 @@ Mal resolusi tahun 2023
   ^ Gym 1 minggu sekali
 - Bisa dan mengerti bahasa pemrograman yang dipelajari 
   ^ C++
+  ^ Java
+  ^ Database
 - Healing minimal 2 bulan sekali
+  ^ Membuat video konten camping 
